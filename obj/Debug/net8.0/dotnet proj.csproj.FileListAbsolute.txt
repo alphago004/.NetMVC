@@ -1,0 +1,30 @@
+C:\dotnet proj\bin\Debug\net8.0\appsettings.Development.json
+C:\dotnet proj\bin\Debug\net8.0\appsettings.json
+C:\dotnet proj\bin\Debug\net8.0\dotnet proj.staticwebassets.runtime.json
+C:\dotnet proj\bin\Debug\net8.0\dotnet proj.exe
+C:\dotnet proj\bin\Debug\net8.0\dotnet proj.deps.json
+C:\dotnet proj\bin\Debug\net8.0\dotnet proj.runtimeconfig.json
+C:\dotnet proj\bin\Debug\net8.0\dotnet proj.dll
+C:\dotnet proj\bin\Debug\net8.0\dotnet proj.pdb
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.AssemblyInfoInputs.cache
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.AssemblyInfo.cs
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.csproj.CoreCompileInputs.cache
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.MvcApplicationPartsAssemblyInfo.cache
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.RazorAssemblyInfo.cache
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.RazorAssemblyInfo.cs
+C:\dotnet proj\obj\Debug\net8.0\staticwebassets.build.json
+C:\dotnet proj\obj\Debug\net8.0\staticwebassets.development.json
+C:\dotnet proj\obj\Debug\net8.0\staticwebassets\msbuild.dotnet proj.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dotnet proj\obj\Debug\net8.0\staticwebassets\msbuild.build.dotnet proj.props
+C:\dotnet proj\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.dotnet proj.props
+C:\dotnet proj\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.dotnet proj.props
+C:\dotnet proj\obj\Debug\net8.0\staticwebassets.pack.json
+C:\dotnet proj\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\dotnet proj\obj\Debug\net8.0\scopedcss\bundle\dotnet proj.styles.css
+C:\dotnet proj\obj\Debug\net8.0\scopedcss\projectbundle\dotnet proj.bundle.scp.css
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.dll
+C:\dotnet proj\obj\Debug\net8.0\refint\dotnet proj.dll
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.pdb
+C:\dotnet proj\obj\Debug\net8.0\dotnet proj.genruntimeconfig.cache
+C:\dotnet proj\obj\Debug\net8.0\ref\dotnet proj.dll
